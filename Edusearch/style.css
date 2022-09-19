@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+    background-color: white;
+}
+.box{
+    width: 1500px;
+    display: flex;
+    margin-top: 60px;
+}
+.box1{
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+    margin-left: 230px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
+    background-color: cornsilk;
+}
+.box2{
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
+    background-color: cornsilk;
+}
+
+.box3{
+    width: 300px;
+    padding: 10px;
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
+    background-color: cornsilk;
+}
+.profile1{
+    display: flex;
+}
+.pop{
+    margin-left: 10px;
+    font-size: 16px;
+}
+.pro{
+  font-size: 16px;
+}
+.profile1 input{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: transparent;
+}
+.boboo textarea{
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    width: 400px;
+    background-color: transparent;
+}
+.boboo button{
+    padding: 15px;
+    width: 150px;
+    border-radius: 10px;
+    border: 0;
+    background-color: red;
+    color: white;
+}
+.boboo{
+    padding: 50px;
+    background-color: cornsilk;
+    width: 500px;
+    border-radius: 10px 0px 0px 10px;
+    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
+    margin-left: 200px;
+}
+.rayo{
+    width: 400px;
+}
+.bordor{
+    padding: 20px;
+    border-radius: 0px 10px 10px 0px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0.8, 0.5),rgba(255, 0, 0.8, 0.5)), url('/WhatsApp\ Image\ 2022-09-05\ at\ 4.55.26\ AM\ \(1\).jpeg');
+    background-size: 100%;
+    width: 400px;
+    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
+}
+.polo{
+    padding: 20px;
+    display: flex;
+    margin-top: 40px;
+}
+.rayo button{
+    margin-top: 10px;
+}
+.name :focus{
+    border-bottom: 2px solid red;
+}
+.kenny{
+    padding: 20px 30px 20px 30px;
+    background-color: green;
+    border-radius: 20px;
+}
+.taiwo a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    
+}
+.kenny a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px; 
+}
+.taiwo a:hover{
+    color: pink;
+}
+.kenny a:hover{
+    color: pink;
+}
+.popo ul, li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 50px;
+    font-size: 17px;
+    font-weight: 500;
+    gap: 30px;
+    word-spacing: normal; 
+}
+.Boli{
+    background-color: black;
+    padding: 20px;
+}
+.pok{
+    background-color: black;
+    padding: 20px;
+}
+.idowu{
+    color: white;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+.ppp{
+    color: white;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.ppppp{
+    color: white;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.popopop{
+    display: flex;
+    padding: 20px;
+}
+.pok p{
+    color: white;
+    margin-left: 30%;
+}

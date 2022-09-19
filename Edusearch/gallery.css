@@ -1,0 +1,136 @@
+body{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0),rgb(118, 3, 3)), url('/WhatsApp\ Image\ 2022-09-05\ at\ 4.55.27\ AM.jpeg');
+    margin: 0;
+}
+.box{
+    display: flex;
+    margin-left: 50px;
+}
+.profile{
+    padding: 30px;
+    margin-top: 60px;
+}
+.profile label{
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.box1{
+    display: flex;
+    margin-left: 50px;
+}
+.box2{
+    display: flex;
+    margin-left: 50px;
+}
+.box3{
+    display: flex;
+    margin-left: 50px;
+}
+.box4{
+    display: flex;
+    margin-left: 50px;
+}
+.box img{
+    width: 500px;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.box1 img{
+    width: 500px;
+    height: 250px;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.box2 img{
+    width: 500px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+}.box3 img{
+    width: 500px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}.box4 img{
+    width: 500px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.profile h1{
+    color: white;
+    text-align: center;
+}
+.kenny{
+    padding: 20px 30px 20px 30px;
+    background-color: green;
+    border-radius: 20px;
+}
+.taiwo a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+}
+.kenny a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px; 
+}
+.taiwo a:hover{
+    color: pink;
+}
+.kenny a:hover{
+    color: pink;
+}
+.popo ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 50px;
+    font-size: 17px;
+    font-weight: 500;
+    gap: 30px;
+    word-spacing: normal; 
+}
+.pok{
+    background-color: black;
+    margin: 0;
+    margin-top: 20px;
+    padding: 20px;
+}
+.idowu{
+    color: white;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+.ppp{
+    color: white;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.ppppp{
+    color: white;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.popopop{
+    display: flex;
+    padding: 20px;
+}
+.pok p{
+    color: white;
+    margin-left: 30%;
+}

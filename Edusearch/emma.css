@@ -1,0 +1,167 @@
+body{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0), rgba(6, 59, 59), rgba(0, 0, 0)), url('/WhatsApp\ Image\ 2022-09-05\ at\ 4.55.27\ AM.jpeg');
+    color: white;
+    font-family: sans-serif;
+    margin: 0;
+}
+.profile h1, p{
+    text-align: center;
+}
+.profile{
+    margin-top: 70px;
+    margin-right: 40px;
+}
+.po{
+    margin-bottom: 60px;
+}
+.box{
+    width: 70%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin: auto;
+    background-color: rgb(66, 109, 109);
+    border-radius: 20px;
+}
+.boxh1{
+    border-bottom: 2px solid white;
+    width: 150px;
+    margin: auto;
+    margin-top: 30px;
+}
+.main{
+    display: flex;
+    margin-top: 10px;
+    padding: 30px;
+}
+#pop{
+    color: red;
+    font-weight: bold;
+}
+.box1{
+    padding: 25px;
+    width: 350px;
+    border-radius: 20px;
+    background-color: limegreen;
+    box-shadow: 0px 0.8px 0.8px 0.8px  rgb(70, 70, 70);
+}
+.box2{
+    padding: 30px;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: rgb(221, 221, 57);
+    box-shadow: 0px 0.8px 0.8px 0.8px  rgb(70, 70, 70);
+}
+.box3{
+    padding: 30px;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: aqua;
+    box-shadow: 0px 0.8px 0.8px 0.8px  rgb(70, 70, 70);
+}
+.box4{
+    padding: 30px;
+    width: 350px;
+    border-radius: 20px;
+    margin-left: 30px;
+    background-color: purple;
+    box-shadow: 0.5px 0.8px 0.8px 0.8px  rgb(70, 70, 70);
+}
+.pappy{
+    display: flex;
+    padding: 40px;
+    width: 90%;
+    margin: auto;
+}
+.bordor{
+    padding: 100px;
+    width: 500px;
+    border-radius: 20px 0px 20px 0px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(66, 109, 109);
+}
+.emma{
+    padding: 90px;
+    width: 500px;
+    border-radius: 20px 0px 20px 0px;
+    margin-left: 30px;
+    background-color: rgb(66, 109, 109);
+}
+.pappy h1{
+    border-bottom: 2px solid white;
+    width: 290px;
+    margin: auto;
+}
+.kenny{
+    padding: 20px 30px 20px 30px;
+    background-color: green;
+    border-radius: 20px;
+}
+.taiwo a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
+    
+}
+.kenny a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px; 
+}
+.taiwo a:hover{
+    color: pink;
+}
+.kenny a:hover{
+    color: pink;
+}
+.popo ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 50px;
+    font-size: 17px;
+    font-weight: 500;
+    gap: 30px;
+    word-spacing: normal; 
+}
+.Boli{
+    background-color: black;
+    padding: 20px;
+    color: white;
+}
+.pok{
+    background-color: black;
+    padding: 20px;
+    
+}
+.idowu{
+    color: white;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+.ppp{
+    color: white;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.ppppp{
+    color: white;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.popopop{
+    display: flex;
+    padding: 20px;
+}
+#p{
+    color: white;
+    margin-left: 30%;
+}
