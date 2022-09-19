@@ -1,173 +1,246 @@
 body{
+    background-color: white;
+    font-family: sans-serif;
+    padding: 0;
+    width: 100%;
+    overflow-x: hidden;
+}
+.head{
+    display: flex;
+    height: 100px;
+}
+.header p{
+    border-bottom: 2px solid rgb(0, 0, 0);
+    width: 160px;
+    margin-left: 20px;
+    font-size: 26px;
+    font-weight: bold;
+}
+.ball{
+   margin-left: 65%;
+   margin-top: 20px;
+}
+.ball input{
+    background-color: cornsilk;
+    padding: 5px;
+}
+.box{
+    width: 50%;
+}
+.box h1{
+    font-size: 96px;
+}
+.main{
+    background-image: url('/image/backlit.webp');
+    background-size: 100%;
+    padding: 100px;
+    height: 300px;
+    width: 100%;
+    background-position: center;
+    color: white;
+}
+.carrier{
+    width: 100%;
+    background-color: white;
+    margin-top: 20px;
+    height: 1500px;
+    display: flex;
+}
+.container{
+    width: 15%;
+    height: 1500px;
+    padding-left: 10px;
+    margin: 0;
+    background-color: #703418;
+    color: white;
+}
+.imagetool{
+    width: 50%;
+    height: 1500px;
+    margin-top: 20px;
+    margin-left: 20px !important;
     margin: 0;
     background-color: white;
 }
-.box{
-    width: 1500px;
-    display: flex;
-    margin-top: 60px;
-}
-.box1{
-    width: 300px;
-    padding: 10px;
-    background-color: white;
-    margin-left: 230px;
-    margin-top: 30px;
-    border-radius: 20px;
-    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
-    background-color: cornsilk;
-}
-.box2{
-    width: 300px;
-    padding: 10px;
-    background-color: white;
-    margin-left: 20px;
-    margin-top: 30px;
-    border-radius: 20px;
-    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
-    background-color: cornsilk;
-}
-
-.box3{
-    width: 300px;
-    padding: 10px;
-    background-color: white;
-    margin-left: 20px;
-    margin-top: 30px;
-    border-radius: 10px;
-    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
-    background-color: cornsilk;
-}
-.profile1{
-    display: flex;
-}
-.pop{
-    margin-left: 10px;
-    font-size: 16px;
-}
-.pro{
-  font-size: 16px;
-}
-.profile1 input{
-    border: none;
-    outline: none;
-    border-bottom: 2px solid black;
-    width: 200px;
+.poo{
+    width: 500px;
+    height: 250px;
+    background-size: 100%;
     margin-top: 10px;
-    margin-bottom: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: transparent;
+    background-position: center;
+    position: relative;
+    background-image: url('/image/depositphotos_2374938-stock-photo-black-dice-stack.jpg');
 }
-.boboo textarea{
-    border: none;
-    outline: none;
-    border-bottom: 2px solid black;
-    width: 400px;
-    background-color: transparent;
-}
-.boboo button{
-    padding: 15px;
-    width: 150px;
-    border-radius: 10px;
-    border: 0;
+.pool{
+    position: absolute;
+    border-radius: 0px 20px 0px 20px;
+    width: 200px;
+    top: -10px;
     background-color: red;
     color: white;
+    text-align: center;
 }
-.boboo{
-    padding: 50px;
-    background-color: cornsilk;
+.mom{
+    display: flex;
+}
+.clop{
     width: 500px;
-    border-radius: 10px 0px 0px 10px;
-    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
-    margin-left: 200px;
+    height: 250px;
+    margin-left: 30px;
 }
-.rayo{
-    width: 400px;
+.popo{
+    width: 98%;
+    background-color: black;
+    height: 50px;
+    padding: 0.8px;
+    margin-top: 10px;
+    color: white;
+}
+.popo p{
+    padding-left: 10px;
+}
+.log{
+    margin-left: 210px;
+}
+.lo{
+    margin-left: 300px;
 }
 .bordor{
-    padding: 20px;
-    border-radius: 0px 10px 10px 0px;
-    background-image: linear-gradient(to right, rgba(0, 0, 0.8, 0.5),rgba(255, 0, 0.8, 0.5)), url('/WhatsApp\ Image\ 2022-09-05\ at\ 4.55.26\ AM\ \(1\).jpeg');
+    background-image: url('/image/download.jpg');
+    width: 500px;
+    height: 200px;
     background-size: 100%;
-    width: 400px;
-    box-shadow: 0px 3px 3px 3px  rgb(210, 210, 210);
 }
-.polo{
-    padding: 20px;
+.bordor1{
+    background-image: url('/image/co-workers.jpg');
+    width: 350px;
+    height: 200px;
+    background-size: 100%;
+}
+.emma1{
+    background-image: url('/image/istockphoto-1365412652-612x612.jpg');
+    width: 350px;
+    height: 200px;
+    background-size: 100%;
+    margin-left: 50px;
+}
+.emma{
+    background-image: url('/image/LAKE-TREE.jpg');
+    background-image: 100%;
+    background-position: center;
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+}
+.isaac{
+    width: 500px;
+    height: 200px;
+}
+.pius{
+    width: 500px;
+    height: 200px;
+    margin-left: 50px;
+}
+.class{
     display: flex;
-    margin-top: 40px;
+    height: 120px;
 }
-.rayo button{
+.kilo{
+    background-color: rgb(215, 213, 213);
+    height: 300px;
+    width: 100%;
+    margin-top: 20px;
+}
+.workers{
+    display: flex;
+}
+.laud{
+    border: 1px solid black;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+}
+.circle{
+    width: 25%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 50%;
+    background-image: url('/image/service-two.png');
+    background-size: 100%;
+    background-position: center;
+}
+.a{
+  background-image: url('/image/service-three.png');
+}
+.b{
+  background-image: url('/image/hero3.png');
+}
+.c{
+    background-image: url('/image/hero2.png');
+}
+.d{
+    background-image: url('/image/service-one.png');
+}
+.yahoo{
+    width: 40%;
+    height: 1500px;
+    margin-top: 20px;
+    margin-left: 20px !important;
+    margin: 0;
+    background-color: white;
+}
+.sk{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    height: 50px;
+    padding-left: 5px;
+    color: white;
+}
+.trench{
+    margin-left: 200px;
+}
+.green{
+    display: flex;
+}
+.pics{
+    background-image: url('/image/National-Dice-Day.jpg');
+    background-size: 80%;
+    width: 70%;
+    height: 150px;
+    background-position: center;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+}
+.pock{
+    width: 70%;
+    margin-left: 10px;
+}
+.doc{
+    width: 25%;
+    background-image: url('/image/google-docs.png');
+    height: 50px;
+    background-size: 40%;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.mr{
+    margin-left: 10px;
+}
+.hood{
+    background-color: skyblue;
+    text-align: center;
+    padding: 5px;
     margin-top: 10px;
 }
-.name :focus{
-    border-bottom: 2px solid red;
+.sk p{
+    padding-left: 10px;
 }
-.kenny{
-    padding: 20px 30px 20px 30px;
-    background-color: green;
-    border-radius: 20px;
-}
-.taiwo a{
-    text-decoration: none;
-    color: #fff;
-    font-size: 15px;
-    
-}
-.kenny a{
-    text-decoration: none;
-    color: #fff;
-    font-size: 15px; 
-}
-.taiwo a:hover{
-    color: pink;
-}
-.kenny a:hover{
-    color: pink;
-}
-.popo ul, li{
+.container ul li{
     list-style-type: none;
-    display: inline-block;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: 50px;
-    font-size: 17px;
-    font-weight: 500;
-    gap: 30px;
-    word-spacing: normal; 
+    margin-top: 10px;
 }
-.Boli{
-    background-color: black;
-    padding: 20px;
-}
-.pok{
-    background-color: black;
-    padding: 20px;
-}
-.idowu{
-    color: white;
-    font-size: 20px;
-    margin-left: 20%;
-    margin-top: 50px;
-}
-.ppp{
-    color: white;
-    margin-left: 10%;
-    font-size: 20px;
-    margin-top: 50px;
-}
-.ppppp{
-    color: white;
-    margin-left: 10%;
-    font-size: 20px;
-    margin-top: 50px;
-}
-.popopop{
-    display: flex;
-    padding: 20px;
-}
-.pok p{
-    color: white;
-    margin-left: 30%;
+.container h4{
+    margin-left: 40px;
 }
